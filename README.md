@@ -9,7 +9,6 @@ Latest YouTube Videos
 ### Languages and Tools
 
 ![Python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor=ffc0cb)
-![Java](https://img.shields.io/badge/-java-090909?style=for-the-badge&logo=java&logoColor=ffc0cb)
 ![JavaScript](https://img.shields.io/badge/-javascript-090909?style=for-the-badge&logo=javascript&logoColor=ffc0cb)
 ![Vue](https://img.shields.io/badge/-vue-090909?style=for-the-badge&logo=vue.js&logoColor=ffc0cb)
 ![CSS](https://img.shields.io/badge/-css-090909?style=for-the-badge&logo=css3&logoColor=ffc0cb)
