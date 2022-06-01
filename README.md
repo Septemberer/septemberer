@@ -20,3 +20,8 @@
 
 [![Vkontakte](https://img.shields.io/badge/-vkontakte-090909?style=for-the-badge&logo=vk)](https://vk.com/sseptemberer)
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram&logoColor=ffc0cb)](https://t.me/NFT_CutLetKA)
+
+### Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=septemberer&show_icons=true&hide=prs,contribs&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=septemberer&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
