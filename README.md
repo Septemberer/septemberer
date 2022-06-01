@@ -4,8 +4,6 @@
 
 ## I'm a beginner Frontend and Blockchain Developer
 
-Latest YouTube Videos
-
 ### Languages and Tools
 
 ![Python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python)
