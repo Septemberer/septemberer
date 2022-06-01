@@ -1,9 +1,11 @@
-    [![Header](https://github.com/Septemberer/septemberer/blob/main/assets/header.jpg)](https://opensea.io/collection/the-formula-of-illusion-fill)
+# My GITHUB
 
-    About me
+[![Header](https://github.com/Septemberer/septemberer/blob/main/assets/header.jpg)](https://opensea.io/collection/the-formula-of-illusion-fill)
 
-    Latest YouTube Videos
+About me
 
-    Languages and Tools
+Latest YouTube Videos
 
-    Follow Me
+Languages and Tools
+
+Follow Me
