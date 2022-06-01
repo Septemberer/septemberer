@@ -1,4 +1,4 @@
-    Header
+    [![Header](https://github.com/Septemberer/septemberer/blob/main/assets/header.jpg)](https://opensea.io/collection/the-formula-of-illusion-fill)
 
     About me
 
